@@ -8,6 +8,13 @@ Execution time is measured using a custom `Timer` class, and the fastest complet
 
 ---
 
+## 📚 Project Reference
+
+This project is based on the Number Guessing Game challenge from  
+[roadmap.sh](https://roadmap.sh/projects/number-guessing-game).
+
+---
+
 ## ⚙️ Technical Overview
 
 - Modular function-based structure  
